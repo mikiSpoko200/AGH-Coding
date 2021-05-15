@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# JetBrains project config files
+/idea/
